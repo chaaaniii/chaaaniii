@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello&#160;World!&#160;I'm&#160;Chaaaniii😎&fontSize=50&animation=twinkling)
 
-<h2 align="center">🌱 I want to be a frontend developer 🌱 </h2>
-<hr/>
+<h1 align="center">🌱 I want to be a frontend developer 🌱 </h1>
+<p align="center">I believe that my unbreakable belief and smooth communication<br/> will eventually make me a front-end developer.<p>
+
 <h3 align="center">🔭 Front Tech Stack 🔭<h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>&nbsp
