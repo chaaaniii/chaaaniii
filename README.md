@@ -1,5 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello&#160;World.&#160;I'm&#160;Chaaaniii😎&fontSize=50&animation=twinkling)
 
+<p align="center">🌱 I’m currently learning ...</p>
 <!--
 **chaaaniii/chaaaniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
