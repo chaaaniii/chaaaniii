@@ -11,13 +11,15 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/jQuery-F29F05?style=flat&logo=jQuery&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/PHP-F29F05?style=flat&logo=PHP&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>&nbsp
 </p>
 
 <h3 align="center">🔭 Back Tech Stack 🔭<h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white"/>&nbsp
 </p>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
