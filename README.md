@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/jQuery-F29F05?style=flat&logo=jQuery&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/PHP-F29F05?style=flat&logo=PHP&logoColor=white"/>&nbsp
 </p>
 
 <h3 align="center">🔭 Back Tech Stack 🔭<h3>
