@@ -3,7 +3,7 @@
 <h1 align="center">🌱 I want to be a frontend developer 🌱 </h1>
 <p align="center">I believe that my unbreakable belief and smooth communication<br/> will eventually make me a front-end developer.<p>
 
-<h3 align="center">🔭 Front Tech Stack 🔭<h3>
+<h3 align="center">🌝 Front Tech Stack 🌝<h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
@@ -15,7 +15,8 @@
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white"/>&nbsp
 </p>
 
-<h3 align="center">🔭 Back Tech Stack 🔭<h3>
+
+<h3 align="center">🌚 Back Tech Stack 🌚<h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>&nbsp
@@ -23,6 +24,16 @@
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white"/>&nbsp
 </p>
 
+
+<h3 align="center">👉🏻 Cooperation Tool 👈🏻<h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Notion-fff?style=flat&logo=notion&logoColor=black"/>&nbsp
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/>&nbsp
+</p>
+  
+  
+  
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/chaaaniii">
