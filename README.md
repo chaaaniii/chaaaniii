@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white"/>&nbsp
 </p>
-
+</br>
 
 <h3 align="center">🌚 Back Tech Stack 🌚<h3>
 <p align="center">
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white"/>&nbsp
 </p>
-
+</br>
 
 <h3 align="center">👉🏻 Cooperation Tool 👈🏻<h3>
 <p align="center">
@@ -31,21 +31,22 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/>&nbsp
 </p>
-  
-  
-  
+</br>
+    
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/chaaaniii">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaaaniii&layout=compact&show_icons=true&show_owner=ture&hide_title=true" />
   </a>
 </p>
+
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/chaaaniii">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaaaniii&hide=contribs,prs&hide_title=true" />
   </a>
 </p>
+
 <h3 align="center">✨ My Git View Count ✨</h3>
 <p align="center">
 <!-- Git View Count -->
