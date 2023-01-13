@@ -36,14 +36,16 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/chaaaniii">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaaaniii&layout=compact&show_icons=true&show_owner=ture&hide_title=true" />
+<!--     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaaaniii&layout=compact&show_icons=true&show_owner=ture&hide_title=true" /> -->
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chaaaniii&layout=compact&show_icons=true&show_owner=ture&hide_title=true" />
   </a>
 </p>
 
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/chaaaniii">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaaaniii&hide=contribs,prs&hide_title=true" />
+<!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaaaniii&hide=contribs,prs&hide_title=true" /> -->
+        <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chaaaniii&hide=contribs,prs&hide_title=true" />
   </a>
 </p>
 
