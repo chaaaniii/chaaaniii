@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>&nbsp
 </p>
 </br>
 
