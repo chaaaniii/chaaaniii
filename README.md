@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello&#160;World!&#160;I'm&#160;Chaaaniii😎&fontSize=50&animation=twinkling)
 
-<h1 align="center">🌱 I want to be a Web developer 🌱 </h1>
+<h1 align="center">🌱 I am a Web developer 🌱 </h1>
 <p align="center">I believe that my unbreakable belief and smooth communication<br/> will eventually make me a Web developer.<p>
 
 <h3 align="center">🌝 Front Tech Stack 🌝<h3>
