@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello&#160;World!&#160;I'm&#160;Chaaaniii😎&fontSize=50&animation=twinkling)
 
 <h1 align="center">🌱 I am a Web developer 🌱 </h1>
-<p align="center">I am a junior developer in my 8th month..<p>
+<p align="center">I am a junior developer<p>
 
 <h3 align="center">🌝 Front Tech Stack 🌝<h3>
 <p align="center">
